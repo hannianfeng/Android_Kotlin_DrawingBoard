@@ -7,10 +7,9 @@
 			maven { url 'https://jitpack.io' }
 		}
 	}
-	}
 ```
 ```java
 	dependencies {
 	        implementation 'com.github.hannianfeng:Android_Kotlin_DrawingBoard:Tag'
 	}
-```java
+```
